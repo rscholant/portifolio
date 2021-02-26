@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Portifólio Scholant', // <title>
-  manifestName: 'Resume',
-  manifestShortName: 'Scholant', // max 12 characters
+  manifestName: 'Portifólio Rafael Scholant',
+  manifestShortName: 'RScholant', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#152349',
   manifestThemeColor: '#152349',
