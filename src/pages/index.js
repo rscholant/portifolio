@@ -13,7 +13,7 @@ import Interests from '../components/sections/Interests';
 const IndexPage = () => (
   <Layout>
     <Sidebar />
-    <div className="container-fluid p-0">
+    <div className="container-fluid p-0" id="page-top">
       <Resume 
         firstName={config.firstName}
         lastName={config.lastName}
