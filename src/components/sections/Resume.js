@@ -12,11 +12,15 @@ const Resume = ({firstName, lastName, address, phone, email, socialLinks}) => {
           <span className="text-primary">{lastName}</span>
         </h1>
         <div className="subheading mb-5">
-          {address} · {phone} ·
+          {address} · {phone} · 
           <a href={`mailto:${email}`}>{email}</a>
         </div>
         <p className="lead mb-5">          
-        I have experience with desktop and mobile development, I have a great thirst for learning new technologies and new tools.
+        Hello, I am Rafael, I have been working with development for over ten years, 
+        I have great experience with Delphi development that I started using in 
+        mid 2010 and from 2020 I started a new challenge in my career and now 
+        I work as an Android developer analyst. I have a fascination for new technologies, 
+        lately I have learned a lot about Node.js, React.js and React Native.
         </p>
         <div className="social-icons">
           {socialLinks.map(social => {

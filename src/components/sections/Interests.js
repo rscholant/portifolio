@@ -9,16 +9,12 @@ const Interests = () => {
         <div className="w-100">
           <h2 className="mb-5">Interests</h2>
           <p>
-            Apart from being a web developer, I enjoy most of my time being
-            outdoors. In the winter, I am an avid skier and novice ice climber.
-            During the warmer months here in Colorado, I enjoy mountain biking,
-            free climbing, and kayaking.
-          </p>
-          <p className="mb-0">
-            When forced indoors, I follow a number of sci-fi and fantasy genre
-            movies and television shows, I am an aspiring chef, and I spend a
-            large amount of my free time exploring the latest technology
-            advancements in the front-end web development world.
+            In addition to being a mobile developer analyst, I have a great
+            thirst for learning and in my spare time I try to learn as many
+            new technologies as possible, by attending courses, workshops and
+            lectures, so that over time I can be exercising my job better and
+            better beloved profession.
+
           </p>
         </div>
       </section>

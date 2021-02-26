@@ -10,7 +10,6 @@ import Experience from '../components/sections/Experience';
 import Education from '../components/sections/Education';
 import Skills from '../components/sections/Skills';
 import Interests from '../components/sections/Interests';
-import Awards from '../components/sections/Awards';
 const IndexPage = () => (
   <Layout>
     <Sidebar />
@@ -40,9 +39,7 @@ const IndexPage = () => (
 
       <Interests />
 
-      <hr className="m-0" />
 
-      <Awards />
 
     </div>
   </Layout>
