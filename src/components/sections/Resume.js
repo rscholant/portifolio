@@ -25,9 +25,9 @@ const Resume = ({
           Hello, I am Rafael, I have been working with development for over ten
           years, I have great experience with Delphi development that I started
           using in mid 2010 and from 2020 I started a new challenge in my career
-          and now I work as an Full-stack developer analyst. I have a
-          fascination for new technologies, lately I have learned a lot about
-          Node.js, React.js and React Native.
+          and now I work as an Full-stack developer. I have a fascination for
+          new technologies, lately I have learned a lot about Node.js, React.js
+          and React Native.
         </p>
         <div className="social-icons">
           {socialLinks.map(social => {
